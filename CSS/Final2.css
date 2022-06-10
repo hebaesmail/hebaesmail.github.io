@@ -372,7 +372,6 @@ footer {
 
 /* Form styling */
 .form-container {
-    max-width: 49vw; /* Relative sizing of the form container - 49% of the viewport width */
     padding: 1vw; /* Adds padding between the form-popup and the form-container */
     background-color: white; 
 }
